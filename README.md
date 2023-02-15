@@ -1,5 +1,5 @@
 # Movie Recommendation System
-Link to youtube demo:
+Link to youtube demo: [click here](https://www.youtube.com/watch?v=iEu0obs3QnM)
 
 ### Overview
 * A recommendation system that recommends movies similar to the movie that the user searches by using content-based filtering techniques.
